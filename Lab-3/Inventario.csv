@@ -1,0 +1,11 @@
+nombre,cantidad_disponible,cantidad_vendidos,estado,precio,categoria,mililitros,tipo,gramos,sabor,tamaño,ingrediente,textura
+Snckr,8,5,Si,12,Dulce,,,,,,Chocolate,Blando
+Dorit,0,4,no,23,Snack,,,250,Picante,grande,,
+Voss,7,3,Si,45,Bebida,500,Agua,,,,,
+Coca,6,6,Si,23,Bebida,250,Soda,,,,,
+Pepsi,6,8,Si,12,Bebida,250,Soda,,,,,
+Chicharron,5,2,Si,3,Snack,,,250,Barbacoa,Pequeño,,
+Troti,0,4,no,21,Snack,,,500,Limon,Grande,,
+Nutte,0,7,no,2,Dulce,,,,,,Caramelo,Duro
+asdf,12,43,si,12.0,snack,123,barbCOA,familiar
+Powerade,12,3,si,12.0,Bebida,500,energetico
