@@ -227,7 +227,7 @@ public class Sistema {
      *
      * @return El identificador único generado.
      */
-    public int () {
+    public int generarID() {
         return random.nextInt(1000) + 1;
     }
 
